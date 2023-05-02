@@ -1,7 +1,7 @@
 # SAD-Honors-Contract
 Welcome, Jeff. 
 
-Thank you again for giving me the opportunity to complete an honor's contract this semester. Attached to this Github repository is the requested MVC email checker application. Be sure to download all files so the program will work properly. 
+Thank you again for giving me the opportunity to complete an honor's contract this semester. Attached to this Github repository is the Java files representing the state machine.
 
 Unfortunately, I couldn't find any working resources to aid me in the construction of the MVC application, so these Java files are all I can submit. I apologize.
 
